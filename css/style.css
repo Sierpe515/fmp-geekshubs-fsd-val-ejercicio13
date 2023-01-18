@@ -6,7 +6,7 @@ table {
 th {
     background-color: rgb(105, 210, 97);
     border: 1px solid;
-    width: 800px;
+    width: 100vw;
     text-align: center;
 }
 
