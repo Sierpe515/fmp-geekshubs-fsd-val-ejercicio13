@@ -1,0 +1,37 @@
+table {
+    border: outset 3px;
+    font-weight: bold;
+}
+
+th {
+    background-color: rgb(105, 210, 97);
+    border: 1px solid;
+    width: 800px;
+    text-align: center;
+}
+
+td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+#turq {
+    background-color: turquoise;
+    text-align: left;
+}
+
+#pink {
+    background-color: pink;
+    text-align: end;
+    vertical-align: bottom;
+}
+
+.centercol {
+    border: red 1px solid;
+    color: red;
+    text-align: center;
+}
+
+#texttitle {
+    text-align: center;
+}
